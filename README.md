@@ -1,12 +1,13 @@
-# Monke Mod Manager
+# Monke Cheat Manager
+(based of BzzThe18th's MonkeModManager) 
 ![](https://media.discordapp.net/attachments/871926535588835360/1156739972246814851/image.png?ex=6516118c&is=6514c00c&hm=2cc2d28b6570183256eef11220e2d04071b75af1e03c040004d15a09e9bad0ea&=)
 
 
 
-This program will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods
+This program will install mod menus into Gorilla Tag automatically, and can be re-run in order to update the mods
 
 This uses the github api to get the latest release of all these mods, so you know you'll always be getting the latest version!
-(If you've made a mod that you want added to the installer, send me a message on Discord! `buzzbb`)
+(If you've made a mod that you want added to the installer, send me a message on Discord! `_rice21.`)
 
 ## To have your modded added
 DM me:
